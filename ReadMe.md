@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Sou estudante de Segurança de Informação<br>🌱 Atualmente estou estudando sobre rede de computadores e programação
+Graduação em Segurança da Informação
+Em andamento Pos-Graduação em DevOps e arquitetura em nuvem
 
 
 ## 🌐 Socials:
